@@ -168,8 +168,8 @@ plt.show()
 
 <img width="1390" height="989" alt="546489089-ada59498-1895-467d-aca2-df5942682bf9" src="https://github.com/user-attachments/assets/913486d0-3985-4d06-bb75-42eec9fd13d9" />
 
-# Flat-topped Sampling
 
+# Flat-topped Sampling
 <img width="1398" height="990" alt="546488880-0870a146-1c4f-4b23-8e30-b324faa41cc3" src="https://github.com/user-attachments/assets/404f8974-80f4-4dd2-a084-396f223de227" />
 
 # Results
